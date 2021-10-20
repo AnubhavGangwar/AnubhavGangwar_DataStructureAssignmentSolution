@@ -32,7 +32,6 @@ public class OrderOfConstruction {
 					}
 				} catch (IndexOutOfBoundsException e) {
 				}
-				System.out.println("The Order Of Construction is as Follows");
 				System.out.println();
 			}
 			System.out.println();
